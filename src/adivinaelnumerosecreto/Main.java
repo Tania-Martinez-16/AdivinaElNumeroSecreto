@@ -31,7 +31,7 @@ public class Main {
                 System.out.println("Felicidades. Has adivinado el número secreto.");
             }
             else {
-                System.out.println("Fallaste.El número secreto es"
+                System.out.println("Fallaste. El número secreto es"
                         + juego.getTextoDeAyuda(numero)
                         + "que el numero proporcionado");
                 System.out.println("Intenta de nuevo.");
